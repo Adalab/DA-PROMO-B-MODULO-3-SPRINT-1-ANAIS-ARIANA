@@ -1,4 +1,4 @@
-,Levy,Manufacturer,Prod. year,Category,Leather interior,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels,Doors,Color,Airbags,Price_log
+,Levy,Manufacturer,Prod_year,Category,Leather_interior,Fuel_type,Engine_volume,Mileage,Cylinders,Gear_box_type,Drive_wheels,Doors,Color,Airbags,Price_log
 0,1.7669629682991352,LEXUS,-0.41124831241586113,Jeep,Yes,Hybrid,3.5,0.23713350256369184,1.375313408799021,Automatic,4x4,04,Silver,1.3294055855276352,9.497622364406624
 1,0.943936490158237,CHEVROLET,-0.17333693403091224,Jeep,No,Petrol,3,0.2734378005189499,1.375313408799021,Tiptronic,4x4,04,Black,0.3196683564293995,9.71842223507111
 2,-1.255121133850777,HONDA,-1.3628938259556567,Hatchback,No,Petrol,1.3,0.3218839028779264,-0.4110948284476703,Variator,Front,04,Black,-1.1949374872179541,9.043931533642278
